@@ -56,4 +56,4 @@ Ensembl BioMart gene annotation file
 **Authors**
 
 Sahil Khandekar (sahil04mail@gmail.com)
-Urja Bait (urjabait@gmail,com)
+Urja Bait (urjabait@gmail.com)
